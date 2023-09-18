@@ -1,0 +1,98 @@
+{
+  "Version": 2,
+  "Height": 328,
+  "Width": 1024,
+  "Elements": [
+    {
+      "__type": "KeyboardKey",
+      "Id": 7,
+      "KeyCodes": [32],
+      "Text": "",
+      "ShiftText": "",
+      "Boundaries": [
+        {"X": 698, "Y": 276},
+        {"X": 847, "Y": 276},
+        {"X": 847, "Y": 319},
+        {"X": 698, "Y": 319}
+      ],
+      "TextPosition": {"X": 739, "Y": 297},
+      "ChangeOnCaps": false
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 89,
+      "KeyCodes": [162],
+      "Text": "Ctrl",
+      "ShiftText": "Ctrl",
+      "Boundaries": [
+        {"X": 632, "Y": 276},
+        {"X": 689, "Y": 276},
+        {"X": 689, "Y": 319},
+        {"X": 632, "Y": 319}
+      ],
+      "TextPosition": {"X": 660, "Y": 297},
+      "ChangeOnCaps": false
+    },
+
+    {
+      "__type": "KeyboardKey",
+      "Id": 13,
+      "KeyCodes": [38],
+      "Text": "↑",
+      "ShiftText": "↑",
+      "Boundaries": [
+        {"X": 928, "Y": 232},
+        {"X": 971, "Y": 232},
+        {"X": 971, "Y": 275},
+        {"X": 928, "Y": 275}
+      ],
+      "TextPosition": {"X": 950, "Y": 253},
+      "ChangeOnCaps": false
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 15,
+      "KeyCodes": [ 40 ],
+      "Text": "↓",
+      "ShiftText": "↓",
+      "Boundaries": [
+        {"X": 928, "Y": 276},
+        {"X": 971, "Y": 276},
+        {"X": 971, "Y": 319},
+        {"X": 928, "Y": 319}
+      ],
+      "TextPosition": {"X": 950, "Y": 297},
+      "ChangeOnCaps": false
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 14,
+      "KeyCodes": [39],
+      "Text": "→",
+      "ShiftText": "→",
+      "Boundaries": [
+        {"X": 972, "Y": 276},
+        {"X": 1015, "Y": 276},
+        {"X": 1015, "Y": 319},
+        {"X": 972, "Y": 319}
+      ],
+      "TextPosition": {"X": 993, "Y": 297},
+      "ChangeOnCaps": false
+    },
+    {
+      "__type": "KeyboardKey",
+      "Id": 12,
+      "KeyCodes": [37],
+      "Text": "←",
+      "ShiftText": "←",
+      "Boundaries": [
+        {"X": 884, "Y": 276},
+        {"X": 927, "Y": 276},
+        {"X": 927, "Y": 319},
+        {"X": 884, "Y": 319}
+      ],
+      "TextPosition": {"X": 905, "Y": 297},
+      "ChangeOnCaps": false
+    }
+  ]
+}
