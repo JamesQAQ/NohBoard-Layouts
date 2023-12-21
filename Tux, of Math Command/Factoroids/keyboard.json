@@ -1,128 +1,262 @@
 {
   "Version": 2,
-  "Height": 328,
-  "Width": 1024,
+  "Height": 111,
+  "Width": 407,
   "Elements": [
     {
       "__type": "KeyboardKey",
       "Id": 7,
-      "KeyCodes": [32],
+      "KeyCodes": [
+        32
+      ],
       "Text": "(Laser)",
       "ShiftText": "(Laser)",
       "Boundaries": [
-        {"X": 632, "Y": 276},
-        {"X": 847, "Y": 276},
-        {"X": 847, "Y": 319},
-        {"X": 632, "Y": 319}
+        {
+          "X": 12,
+          "Y": 56
+        },
+        {
+          "X": 227,
+          "Y": 56
+        },
+        {
+          "X": 227,
+          "Y": 99
+        },
+        {
+          "X": 12,
+          "Y": 99
+        }
       ],
-      "TextPosition": {"X": 739, "Y": 297},
+      "TextPosition": {
+        "X": 119,
+        "Y": 77
+      },
       "ChangeOnCaps": false
     },
     {
       "__type": "KeyboardKey",
       "Id": 88,
-      "KeyCodes": [160],
-      "Text": "⇑(Item)",
-      "ShiftText": "⇑(Item)",
-      "Boundaries": [
-        {"X": 720, "Y": 232},
-        {"X": 847, "Y": 232},
-        {"X": 847, "Y": 275},
-        {"X": 720, "Y": 275}
+      "KeyCodes": [
+        160
       ],
-      "TextPosition": {"X": 783, "Y": 253},
+      "Text": "\u21d1(Item)",
+      "ShiftText": "\u21d1(Item)",
+      "Boundaries": [
+        {
+          "X": 100,
+          "Y": 12
+        },
+        {
+          "X": 227,
+          "Y": 12
+        },
+        {
+          "X": 227,
+          "Y": 55
+        },
+        {
+          "X": 100,
+          "Y": 55
+        }
+      ],
+      "TextPosition": {
+        "X": 163,
+        "Y": 33
+      },
       "ChangeOnCaps": false
     },
-
     {
       "__type": "KeyboardKey",
       "Id": 32,
-      "KeyCodes": [68],
+      "KeyCodes": [
+        68
+      ],
       "Text": "d",
       "ShiftText": "D",
       "Boundaries": [
-        {"X": 632, "Y": 232},
-        {"X": 675, "Y": 232},
-        {"X": 675, "Y": 275},
-        {"X": 632, "Y": 275}
+        {
+          "X": 12,
+          "Y": 12
+        },
+        {
+          "X": 55,
+          "Y": 12
+        },
+        {
+          "X": 55,
+          "Y": 55
+        },
+        {
+          "X": 12,
+          "Y": 55
+        }
       ],
-      "TextPosition": {"X": 653, "Y": 253},
+      "TextPosition": {
+        "X": 33,
+        "Y": 33
+      },
       "ChangeOnCaps": true
     },
     {
       "__type": "KeyboardKey",
       "Id": 34,
-      "KeyCodes": [70],
+      "KeyCodes": [
+        70
+      ],
       "Text": "f",
       "ShiftText": "F",
       "Boundaries": [
-        {"X": 676, "Y": 232},
-        {"X": 719, "Y": 232},
-        {"X": 719, "Y": 275},
-        {"X": 676, "Y": 275}
+        {
+          "X": 56,
+          "Y": 12
+        },
+        {
+          "X": 99,
+          "Y": 12
+        },
+        {
+          "X": 99,
+          "Y": 55
+        },
+        {
+          "X": 56,
+          "Y": 55
+        }
       ],
-      "TextPosition": {"X": 697, "Y": 253},
+      "TextPosition": {
+        "X": 77,
+        "Y": 33
+      },
       "ChangeOnCaps": true
     },
-
     {
       "__type": "KeyboardKey",
       "Id": 13,
-      "KeyCodes": [38],
-      "Text": "↑",
-      "ShiftText": "↑",
-      "Boundaries": [
-        {"X": 928, "Y": 232},
-        {"X": 971, "Y": 232},
-        {"X": 971, "Y": 275},
-        {"X": 928, "Y": 275}
+      "KeyCodes": [
+        38
       ],
-      "TextPosition": {"X": 950, "Y": 253},
+      "Text": "\u2191",
+      "ShiftText": "\u2191",
+      "Boundaries": [
+        {
+          "X": 308,
+          "Y": 12
+        },
+        {
+          "X": 351,
+          "Y": 12
+        },
+        {
+          "X": 351,
+          "Y": 55
+        },
+        {
+          "X": 308,
+          "Y": 55
+        }
+      ],
+      "TextPosition": {
+        "X": 330,
+        "Y": 33
+      },
       "ChangeOnCaps": false
     },
     {
       "__type": "KeyboardKey",
       "Id": 15,
-      "KeyCodes": [ 40 ],
-      "Text": "↓",
-      "ShiftText": "↓",
-      "Boundaries": [
-        {"X": 928, "Y": 276},
-        {"X": 971, "Y": 276},
-        {"X": 971, "Y": 319},
-        {"X": 928, "Y": 319}
+      "KeyCodes": [
+        40
       ],
-      "TextPosition": {"X": 950, "Y": 297},
+      "Text": "\u2193",
+      "ShiftText": "\u2193",
+      "Boundaries": [
+        {
+          "X": 308,
+          "Y": 56
+        },
+        {
+          "X": 351,
+          "Y": 56
+        },
+        {
+          "X": 351,
+          "Y": 99
+        },
+        {
+          "X": 308,
+          "Y": 99
+        }
+      ],
+      "TextPosition": {
+        "X": 330,
+        "Y": 77
+      },
       "ChangeOnCaps": false
     },
     {
       "__type": "KeyboardKey",
       "Id": 14,
-      "KeyCodes": [39],
-      "Text": "→",
-      "ShiftText": "→",
-      "Boundaries": [
-        {"X": 972, "Y": 276},
-        {"X": 1015, "Y": 276},
-        {"X": 1015, "Y": 319},
-        {"X": 972, "Y": 319}
+      "KeyCodes": [
+        39
       ],
-      "TextPosition": {"X": 993, "Y": 297},
+      "Text": "\u2192",
+      "ShiftText": "\u2192",
+      "Boundaries": [
+        {
+          "X": 352,
+          "Y": 56
+        },
+        {
+          "X": 395,
+          "Y": 56
+        },
+        {
+          "X": 395,
+          "Y": 99
+        },
+        {
+          "X": 352,
+          "Y": 99
+        }
+      ],
+      "TextPosition": {
+        "X": 373,
+        "Y": 77
+      },
       "ChangeOnCaps": false
     },
     {
       "__type": "KeyboardKey",
       "Id": 12,
-      "KeyCodes": [37],
-      "Text": "←",
-      "ShiftText": "←",
-      "Boundaries": [
-        {"X": 884, "Y": 276},
-        {"X": 927, "Y": 276},
-        {"X": 927, "Y": 319},
-        {"X": 884, "Y": 319}
+      "KeyCodes": [
+        37
       ],
-      "TextPosition": {"X": 905, "Y": 297},
+      "Text": "\u2190",
+      "ShiftText": "\u2190",
+      "Boundaries": [
+        {
+          "X": 264,
+          "Y": 56
+        },
+        {
+          "X": 307,
+          "Y": 56
+        },
+        {
+          "X": 307,
+          "Y": 99
+        },
+        {
+          "X": 264,
+          "Y": 99
+        }
+      ],
+      "TextPosition": {
+        "X": 285,
+        "Y": 77
+      },
       "ChangeOnCaps": false
     }
   ]
